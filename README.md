@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/charko-abdi/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/charko-abdi/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/charmarke1/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/charmarke1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/charko-abdi/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charko-abdi/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/charmarke1/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charmarke1/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
