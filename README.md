@@ -12,6 +12,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/charmarke1/configure-ad)
   - [Exploring DNS Management and Practices](https://github.com/charmarke1/dns-lab)
   - [Network Shares and File Permission Management](https://github.com/charmarke1/network-file-share-lab)
+  - [Azure Lab: Monitoring Login Events with Group Policy and Event Viewer](https://github.com/Charmarke1/event-viewer-)
 
 <h2>🤳Connect with me:</h2>
 
