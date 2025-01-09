@@ -8,11 +8,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/charmarke1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charmarke1/azure-network-protocols)
-  - [VPN Setup and Usage](https://github.com/charmarke1/vpn-lab)
+  - [Azure Lab: Monitoring Login Events with Group Policy and Event Viewer](https://github.com/Charmarke1/event-viewer-)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/charmarke1/configure-ad)
   - [Exploring DNS Management and Practices](https://github.com/charmarke1/dns-lab)
   - [Network Shares and File Permission Management](https://github.com/charmarke1/network-file-share-lab)
-  - [Azure Lab: Monitoring Login Events with Group Policy and Event Viewer](https://github.com/Charmarke1/event-viewer-)
+  - [VPN Setup and Usage](https://github.com/charmarke1/vpn-lab)
 
 <h2>🤳Connect with me:</h2>
 
